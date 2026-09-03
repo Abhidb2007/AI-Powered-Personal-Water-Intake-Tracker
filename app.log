@@ -1,0 +1,44 @@
+2026-09-03 11:09:06,956 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:09:06,960 - INFO - Retrying request to /responses in 0.426887 seconds
+2026-09-03 11:09:13,496 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:09:13,498 - INFO - Retrying request to /responses in 0.834035 seconds
+2026-09-03 11:09:21,789 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:15:55,008 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:15:55,009 - INFO - Retrying request to /responses in 0.447067 seconds
+2026-09-03 11:16:02,058 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:16:02,059 - INFO - Retrying request to /responses in 0.883807 seconds
+2026-09-03 11:16:09,945 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:17:34,367 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:17:34,402 - INFO - Retrying request to /responses in 0.377502 seconds
+2026-09-03 11:17:40,941 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:17:40,943 - INFO - Retrying request to /responses in 0.776809 seconds
+2026-09-03 11:17:47,221 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:25:25,244 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:25:25,245 - INFO - Retrying request to /responses in 0.467315 seconds
+2026-09-03 11:25:31,997 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:25:31,999 - INFO - Retrying request to /responses in 0.962665 seconds
+2026-09-03 11:25:39,575 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:25:39,578 - ERROR - Hydration analysis unavailable: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-09-03 11:25:44,387 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:25:44,389 - INFO - Retrying request to /responses in 0.410103 seconds
+2026-09-03 11:25:49,849 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:25:49,850 - INFO - Retrying request to /responses in 0.753642 seconds
+2026-09-03 11:25:55,587 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:25:55,589 - ERROR - Hydration analysis unavailable: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-09-03 11:39:45,271 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:39:45,273 - INFO - Retrying request to /responses in 0.400483 seconds
+2026-09-03 11:39:51,720 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:39:51,722 - INFO - Retrying request to /responses in 0.826665 seconds
+2026-09-03 11:39:57,966 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:39:57,968 - INFO - userabhi logged2000ml
+2026-09-03 11:41:38,927 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:41:38,929 - INFO - Retrying request to /responses in 0.408044 seconds
+2026-09-03 11:41:46,527 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:41:46,633 - INFO - Retrying request to /responses in 0.777802 seconds
+2026-09-03 11:41:53,163 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 429 Too Many Requests"
+2026-09-03 11:41:53,165 - INFO - useruser_123 logged2000ml
+2026-09-03 19:36:50,728 - INFO - HTTP Request: GET http://testserver/history/__read_only_smoke_user__ "HTTP/1.1 200 OK"
+2026-09-03 21:18:03,659 - INFO - HTTP Request: GET http://testserver/history/__production_smoke_user__ "HTTP/1.1 200 OK"
+2026-09-03 21:18:03,787 - INFO - HTTP Request: POST http://testserver/log_intake "HTTP/1.1 422 Unprocessable Content"
+2026-09-03 21:20:45,516 - INFO - HTTP Request: GET http://testserver/history/__final_read_only_user__ "HTTP/1.1 200 OK"
+2026-09-03 21:20:45,536 - INFO - HTTP Request: POST http://testserver/log_intake "HTTP/1.1 422 Unprocessable Entity"
