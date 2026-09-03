@@ -1,7 +1,7 @@
 import os
 
 from dotenv import load_dotenv
-from openai import APIError, OpenAI
+from openai import APIError,OpenAI
 
 load_dotenv()
 
