@@ -1,0 +1,17 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Local application data
+*.db
+*.db-*
+app.log
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/secrets.toml
